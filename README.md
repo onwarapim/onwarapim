@@ -43,5 +43,8 @@ I'm always open to collaborating on interesting projects. If you have an idea, f
 ## 🔝 Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
+## 🎵 My Favorite Song
+My current favorite song is [PARANOIA]([Spotify Link](https://open.spotify.com/track/29WxJqIfDRMo9isV07kbJP?si=909c317d84ba48d0)) by [HEART STEEAL].
+
 <!-- Optional: Add more custom badges for additional information -->
 
