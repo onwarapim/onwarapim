@@ -39,5 +39,8 @@ I'm always open to collaborating on interesting projects. If you have an idea, f
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
+## 🔝 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+
 <!-- Optional: Add more custom badges for additional information -->
 
