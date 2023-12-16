@@ -1,3 +1,6 @@
+## 🎧 Spotify Now Playing
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+
 # 👋 Hello, I'm [Onwara]!
 
 ## About Me
@@ -27,8 +30,6 @@ Here are some projects I'm proud of:
 - Twitter: [@YourTwitterHandle](Link to Twitter)
 - Email: [Your Email Address](onwara.pi@ku.th)
 
-## 🌐 Check Out My Website
-[Your Portfolio/Personal Website](Link to your website)
 
 ## 🤝 Open to Collaboration
 I'm always open to collaborating on interesting projects. If you have an idea, feel free to reach out!
