@@ -1,12 +1,12 @@
-# 👋 Hello, I'm [Your Name]!
+# 👋 Hello, I'm [Onwara]!
 
 ## About Me
 I'm a passionate [Your Profession/Field] with a keen interest in [Specific Areas of Interest]. My journey in the world of [Technology/Your Field] has led me to explore and contribute to various projects.
 
 - 🔭 I’m currently working on [Current Project/Job].
-- 🌱 I’m currently learning [Technologies or Skills you're learning].
+- 🌱 I’m currently learning [Phyton,Java,CSS,html].
 - 💬 Ask me about [Specific Topics you're knowledgeable about].
-- 😄 Pronouns: [Your Pronouns]
+- 😄 Pronouns: [She/Her]
 
 ## 🚀 Skills and Tools
 - **Programming Languages:** [List of Languages]
@@ -25,7 +25,7 @@ Here are some projects I'm proud of:
 ## 📫 Get in Touch
 - LinkedIn: [Your LinkedIn Profile](Link to LinkedIn)
 - Twitter: [@YourTwitterHandle](Link to Twitter)
-- Email: [Your Email Address](mailto:your@email.com)
+- Email: [Your Email Address](onwara.pi@ku.th)
 
 ## 🌐 Check Out My Website
 [Your Portfolio/Personal Website](Link to your website)
